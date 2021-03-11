@@ -3,19 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampDemo", "KampDemo\KampDemo.csproj", "{9EDA2D08-F717-4D62-8B29-58CA2D7BE16D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampDemo", "KampDemo\KampDemo.csproj", "{9EDA2D08-F717-4D62-8B29-58CA2D7BE16D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{ABF67D3F-F5E6-4105-8F98-DA83C319F8DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{ABF67D3F-F5E6-4105-8F98-DA83C319F8DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{E5A69087-F11A-4D20-9D65-84B92FEED1B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{E5A69087-F11A-4D20-9D65-84B92FEED1B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{42C924FF-77D2-4A70-9FE8-0AF6F20CFF12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Donguler.csproj", "{42C924FF-77D2-4A70-9FE8-0AF6F20CFF12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gun2Odev6", "Gun2Odev6\Gun2Odev6.csproj", "{EF971FEF-4C04-4D6A-8EAD-4747DD6F0BA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gun2Odev6", "Gun2Odev6\Gun2Odev6.csproj", "{EF971FEF-4C04-4D6A-8EAD-4747DD6F0BA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{2C50208C-9800-4E88-B954-5A1E31C8D852}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{2C50208C-9800-4E88-B954-5A1E31C8D852}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{62516586-E823-4173-A2BC-470BEF3A580F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{62516586-E823-4173-A2BC-470BEF3A580F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{6637BD0F-ED8B-4093-AF37-F312C218F402}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{7FE6EEA0-708A-4752-BC4D-C39CA032EE12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{B954979B-D928-4452-822E-BD982AD3751B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{62516586-E823-4173-A2BC-470BEF3A580F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62516586-E823-4173-A2BC-470BEF3A580F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62516586-E823-4173-A2BC-470BEF3A580F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6637BD0F-ED8B-4093-AF37-F312C218F402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6637BD0F-ED8B-4093-AF37-F312C218F402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6637BD0F-ED8B-4093-AF37-F312C218F402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6637BD0F-ED8B-4093-AF37-F312C218F402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FE6EEA0-708A-4752-BC4D-C39CA032EE12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE6EEA0-708A-4752-BC4D-C39CA032EE12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE6EEA0-708A-4752-BC4D-C39CA032EE12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE6EEA0-708A-4752-BC4D-C39CA032EE12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B954979B-D928-4452-822E-BD982AD3751B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B954979B-D928-4452-822E-BD982AD3751B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B954979B-D928-4452-822E-BD982AD3751B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B954979B-D928-4452-822E-BD982AD3751B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
